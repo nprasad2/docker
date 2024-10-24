@@ -1,0 +1,2 @@
+FROM amazonlinux:v9
+RUN dnf install nginx
